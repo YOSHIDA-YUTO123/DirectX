@@ -1,0 +1,4 @@
+﻿  bullet.cpp
+C:\Users\student\source\repos\HOME\bullet.cpp(131,9): warning C4804: '>=': 演算中の 'bool' 型の使用方法が安全ではありません
+C:\Users\student\source\repos\HOME\bullet.cpp(131,61): warning C4804: '>=': 演算中の 'bool' 型の使用方法が安全ではありません
+  HOME.vcxproj -> C:\Users\student\source\repos\HOME\Debug\HOME.exe
